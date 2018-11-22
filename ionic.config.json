@@ -1,0 +1,7 @@
+{
+  "name": "CybertronAttendance",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
